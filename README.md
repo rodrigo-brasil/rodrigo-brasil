@@ -31,7 +31,7 @@ Here are some ideas to get you started:
   
   ##
  
-<div  style="text-align: center"> 
-
+<div style="text-align: center">
   <a href="https://www.linkedin.com/in/rodrigo-brasil-272312178/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<\div> 
+ <a href="https://discord.gg/363676626359418911" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+</div> 
