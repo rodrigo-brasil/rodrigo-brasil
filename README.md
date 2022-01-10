@@ -1,8 +1,10 @@
-Hi there 👋
+### I'm Rodrigo Brasil 👋
 
 - ⚡ Fun fact: I don't know everything, but i know how to learn
+- - 📫 How to reach me: rodrigo.sousabrasil@outlook.com or by <a href="https://www.linkedin.com/in/rodrigo-brasil-272312178/" target="_blank"><img align="center" alt="Rodrigo-LINKEDIN" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /> </a>
 <!--
 **rodrigo-brasil/rodrigo-brasil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
